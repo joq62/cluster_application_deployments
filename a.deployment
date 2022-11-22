@@ -1,0 +1,5 @@
+{cluster_application_deployment,"a",
+ [{cluster_spec,"many_c100_c200"},
+  {appl_deployment_specs,["math"]}	
+ ]
+}.

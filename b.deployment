@@ -1,0 +1,5 @@
+{cluster_application_deployment,"b",
+ [{cluster_spec,"glurk"},
+  {appl_deployment_specs,["math","glurk_app"]}	
+ ]
+}.
